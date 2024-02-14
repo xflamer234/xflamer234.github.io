@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff4d6a; /* Red background */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-image: url('heart-background.jpg'); /* Heart-shaped background image */
+    background-size: cover;
+}
+
+h1 {
+    color: #ffffff; /* White text color */
+}
+
+p {
+    color: #ffffff; /* White text color */
+}
