@@ -35,10 +35,10 @@ p {
 
 #image1, #image2, #image3 {
     width: 200%; /* This will make the image width adjust to the size of the parent element */
-    height: 200; /* This will keep the aspect ratio of the image intact */
+    height: auto; /* This will keep the aspect ratio of the image intact */
 }
 
 #image3{
     width: 200%;
-    height: 200;
+    height: auto;
 }
