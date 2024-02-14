@@ -25,3 +25,19 @@ h1 {
 p {
     color: #ffffff; /* White text color */
 }
+
+
+#images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#image1, #image2, #image3 {
+    width: 45%; /* Adjust as needed */
+    margin: 2.5%; /* Adjust as needed */
+}
+
+#image3 {
+    width: 100%; /* Adjust as needed */
+}
