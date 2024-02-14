@@ -18,6 +18,10 @@ body {
     background-size: cover;
 }
 
-h1, p {
+h1 {
+    color: #ffffff; /* White text color */
+}
+
+p {
     color: #ffffff; /* White text color */
 }
