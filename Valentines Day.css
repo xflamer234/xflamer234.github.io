@@ -34,7 +34,7 @@ p {
 }
 
 #image1, #image2, #image3 {
-    width: 100%; /* This will make the image width adjust to the size of the parent element */
+    width: 10%; /* This will make the image width adjust to the size of the parent element */
     height: auto; /* This will keep the aspect ratio of the image intact */
 }
 
